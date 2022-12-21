@@ -1,0 +1,2 @@
+# idec
+for comp
